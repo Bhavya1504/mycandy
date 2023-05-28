@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #candy-form {
+    margin-bottom: 20px;
+  }
+  
+  #add-item {
+    margin-top: 10px;
+  }
+  
+  #candy-list {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
